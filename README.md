@@ -7,10 +7,8 @@
 </ul>
 <hr>
 <B> Images</B></br></br>
-
-<img src="https://github.com/PixeL-TryHard/Tic_Tac_Toe/assets/130206120/15fc9203-0998-4ca0-b896-704913ef6e99"></br>
-<I>Click Run!</I></br>
-<img src="https://github.com/PixeL-TryHard/Tic_Tac_Toe/assets/130206120/1af2f953-bb31-42b0-8c25-281dab4fffe1"></br>
-<img src="https://github.com/PixeL-TryHard/Tic_Tac_Toe/assets/130206120/cfb70be3-03c2-48ff-9f20-71ffcbdfaab0"></br>
-<img src="https://github.com/PixeL-TryHard/Tic_Tac_Toe/assets/130206120/e7076b46-bc3e-4ebc-af32-72b5ee4319cb"></br>
+<img src="https://github.com/PixeL-TryHard/Tic-Tac-Toe/assets/130206120/1f27ebb0-bed0-4fad-b8bc-ae36253b246f" width="250" height="500"></br>
+<I>Click Start!</I></br>
+<img src="https://github.com/PixeL-TryHard/Tic-Tac-Toe/assets/130206120/81bbd7f1-47bb-44f7-a838-7fd584b81a8f" width="250" height="500"></br>
+<img src="https://github.com/PixeL-TryHard/Tic-Tac-Toe/assets/130206120/ebc76356-18f7-407c-8d43-3a537226ad65" width="250" height="500"></br>
 
