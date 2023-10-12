@@ -6,7 +6,7 @@
   <li> Use gradle to build and connect smartphone to process game into your phone</li>
 </ul>
 <hr>
-<B> Images</B></br></br>
+<B> Images:</B></br></br>
 <img src="https://github.com/PixeL-TryHard/Tic-Tac-Toe/assets/130206120/1f27ebb0-bed0-4fad-b8bc-ae36253b246f" width="250" height="500"></br>
 <I>Click Start!</I></br>
 <img src="https://github.com/PixeL-TryHard/Tic-Tac-Toe/assets/130206120/81bbd7f1-47bb-44f7-a838-7fd584b81a8f" width="250" height="500"></br>
